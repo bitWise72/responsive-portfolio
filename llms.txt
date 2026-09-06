@@ -1,0 +1,31 @@
+# Sayan Ganguly
+
+> Computer Science and Engineering student focused on Artificial Intelligence, Machine Learning, Software Engineering, and intelligent systems.
+
+## About
+
+I am a Computer Science and Engineering student interested in Artificial Intelligence, Machine Learning, full-stack software development, and research-oriented engineering. My work includes intelligent applications, computer vision systems, generative AI applications, and software engineering projects.
+
+## Education
+
+- B.Tech in Computer Science and Engineering — Jalpaiguri Government Engineering College (Present)
+- Diploma in Data Science and Programming — IIT Madras (Present)
+
+## Projects
+
+### BawarchiAI
+A generative AI assistant for cooking and baking using LLM-based reasoning and retrieval augmented generation.
+Tags: GenAI, RAG, Gemini
+
+### Kshitij
+A software solution developed for the Smart India Hackathon focused on solving a real-world problem using intelligent systems.
+Tags: AI, Software Engineering
+
+### Medical Image Segmentation
+Research-oriented work on semantic segmentation of medical images using modern transformer-based architectures.
+Tags: Computer Vision, Deep Learning, Transformers
+
+## Links
+
+- GitHub: https://github.com/bitWise72
+- LinkedIn: https://www.linkedin.com/in/sayan-ganguly-bw1729/
