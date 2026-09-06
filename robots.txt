@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sayanganguly.netlify.app/sitemap.xml
+Sitemap: https://sayangangulyportfolio.netlify.app/sitemap.xml
