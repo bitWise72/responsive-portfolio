@@ -9,7 +9,7 @@ I am a Computer Science and Engineering student interested in Artificial Intelli
 ## Education
 
 - B.Tech in Computer Science and Engineering — Jalpaiguri Government Engineering College (Present)
-- Diploma in Data Science and Programming(Remote) — IIT Madras (Present)
+- Diploma in Data Science and Programming(Remote) — IIT Madras
 
 ## Projects
 
