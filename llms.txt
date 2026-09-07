@@ -17,9 +17,10 @@ I am an Associate Software Development Engineer (ASDE) at Prismforce, specializi
 A software solution developed for the Smart India Hackathon focused on solving real-world challenges using robust backend architectures and intelligent systems.
 Tags: Backend, Web Applications, AI
 
-### Medical Image Segmentation
-Research-oriented project on semantic segmentation of medical images using modern transformer-based deep learning architectures.
-Tags: Computer Vision, Deep Learning, Transformers
+### Light Your Diya
+A viral interactive map for Diwali, enabling users to place virtual diyas, share messages, and form real-time connection chains using React, Supabase, Leaflet, and OpenStreetMap.
+URL: https://light-your-diya.vercel.app/
+Tags: React, Supabase, Leaflet, OpenStreetMap
 
 ## Links
 
