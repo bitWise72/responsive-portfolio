@@ -13,14 +13,20 @@ I am an Associate Software Development Engineer (ASDE) at Prismforce, specializi
 
 ## Projects
 
-### Kshitij
-A software solution developed for the Smart India Hackathon focused on solving real-world challenges using robust backend architectures and intelligent systems.
-Tags: Backend, Web Applications, AI
+### Multi-Class Classification of Chest XRays
+Implemented Transfer Learning using the frozen layers of ResNet-18 along with GAN for data augmentation on Kaggle.
+URL: https://www.kaggle.com/code/sayanganguly72/chest-xray
+Tags: ResNet-18, GAN, PyTorch, Kaggle
 
 ### Light Your Diya
 A viral interactive map for Diwali, enabling users to place virtual diyas, share messages, and form real-time connection chains using React, Supabase, Leaflet, and OpenStreetMap.
 URL: https://light-your-diya.vercel.app/
 Tags: React, Supabase, Leaflet, OpenStreetMap
+
+### WhatsApp Wrapped
+Wrap your annual WhatsApp memories the same way as Spotify helps you do it.
+URL: https://whatwrapped.vercel.app/
+Tags: Web Applications, React, Data Visualization
 
 ## Links
 
