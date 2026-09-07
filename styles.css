@@ -126,8 +126,10 @@ a {
 }
 
 
-.nav-links a:hover {
+.nav-links a:hover,
+.nav-links a.active {
     color: var(--text);
+    font-weight: 600;
 }
 
 
@@ -432,22 +434,7 @@ a {
 }
 
 
-.site-footer {
-    width: min(
-        calc(100% - 2rem),
-        var(--max-width)
-    );
 
-    margin: 0 auto;
-
-    padding: var(--space-lg) 0;
-
-    border-top: 1px solid var(--border);
-
-    color: var(--muted);
-
-    font-size: 0.85rem;
-}
 
 
 @media (max-width: 800px) {

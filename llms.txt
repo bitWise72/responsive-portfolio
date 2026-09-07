@@ -1,31 +1,28 @@
 # Sayan Ganguly
 
-> Computer Science and Engineering student focused on Artificial Intelligence, Machine Learning, Software Engineering, and intelligent systems.
+> Associate Software Development Engineer (ASDE) at Prismforce focused on Software Engineering, Web Applications, Backend Development, and intelligent systems.
 
 ## About
 
-I am a Computer Science and Engineering student interested in Artificial Intelligence, Machine Learning, full-stack software development, and research-oriented engineering. My work includes intelligent applications, computer vision systems, generative AI applications, and software engineering projects.
+I am an Associate Software Development Engineer (ASDE) at Prismforce, specializing in designing high-performance web applications, reliable backend architecture, system design, and software engineering. My technical domain includes web development, server-side systems, and applied machine learning integration.
 
-## Education
+## Experience & Education
 
-- B.Tech in Computer Science and Engineering — Jalpaiguri Government Engineering College (Present)
-- Diploma in Data Science and Programming(Remote) — IIT Madras
+- Associate Software Development Engineer (ASDE): Prismforce (Present)
+- B.Tech in Computer Science and Engineering: Jalpaiguri Government Engineering College (Graduated)
 
 ## Projects
 
-### BawarchiAI
-A generative AI assistant for cooking and baking using LLM-based reasoning and retrieval augmented generation.
-Tags: GenAI, RAG, Gemini
-
 ### Kshitij
-A software solution developed for the Smart India Hackathon focused on solving a real-world problem using intelligent systems.
-Tags: AI, Software Engineering
+A software solution developed for the Smart India Hackathon focused on solving real-world challenges using robust backend architectures and intelligent systems.
+Tags: Backend, Web Applications, AI
 
 ### Medical Image Segmentation
-Research-oriented work on semantic segmentation of medical images using modern transformer-based architectures.
+Research-oriented project on semantic segmentation of medical images using modern transformer-based deep learning architectures.
 Tags: Computer Vision, Deep Learning, Transformers
 
 ## Links
 
+- Email: sayanganguly128@gmail.com
 - GitHub: https://github.com/bitWise72
 - LinkedIn: https://www.linkedin.com/in/sayan-ganguly-bw1729/
